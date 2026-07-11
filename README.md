@@ -70,10 +70,16 @@ Practice repositories for core programming and problem-solving in C and Python.
 ---
 
 ## 🌱 Currently Learning
-- Advanced Flutter
-- AI Engineering
+- Advanced Flutter (state management, animations, performance)
+- AI Engineering & LLM Integration
 - AWS & Cloud Deployment
 - System Design
+- RESTful API Design
+- CI/CD Pipelines (GitHub Actions)
+- Firebase (Auth, Firestore, Cloud Functions)
+- Docker & Containerization
+- Data Structures & Algorithms
+- Mobile App Architecture (MVVM, Clean Architecture)
 
 ---
 
