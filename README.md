@@ -116,12 +116,11 @@ Practice repositories for core programming and problem-solving in C and Python.
 ## 💭 A note before you go
 
 ```dart
-void main() {
-  print("Thanks for stopping by 👋");
-  print("I don't chase big leaps — I chase showing up.");
-  print("One commit, one bug fix, one small feature at a time.");
-  print("That's how everything above this line got built.");
-}
+// Not the loudest coder. Just the one who shows up daily.
+print("Thanks for stopping by 👋 — Meghana");
+```
+
+⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
 ```
 ## 💭 Favorite Quote
    > "Make it work, make it right, make it fast." — Kent Beck
