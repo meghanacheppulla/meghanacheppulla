@@ -1,4 +1,4 @@
-https://github.com/meghanacheppulla/meghanacheppulla/blob/main/banner%20(5).svg
+![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner.svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ---
