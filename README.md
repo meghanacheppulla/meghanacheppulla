@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 📱 Flutter Developer passionate about building AI-powered mobile apps
-- 🏆 Top 5 Finalist — Project Space Hackathon (160+ teams, 900+ participants)
+- 🏆 Top 5 Finalist — Project Space (160+ teams, 900+ participants)
 - ☁️ Exploring AWS deployment and cloud workflows
 - 💡 Interested in AI, Mobile Development, and Cloud Computing
 - ⚡ Strong foundation in C, Python, and Java
