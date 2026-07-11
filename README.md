@@ -76,12 +76,26 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-## 📬 Connect with Me
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-- 💼 LinkedIn: https://www.linkedin.com/in/meghana-cheppulla-1650a0291/
-- 📧 Email: meghanacheppulla@gmail.com
-- 🌐 Portfolio: https://meghanacheppulla.github.io/Meghana_Portfolio/
-- 💻 GitHub: https://github.com/meghanacheppulla
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:meghanacheppulla@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://meghanacheppulla.github.io/Meghana_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/meghanacheppulla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ---
 
