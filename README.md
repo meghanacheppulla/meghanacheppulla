@@ -106,8 +106,26 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-## 💭 Favorite Quote
+---
 
-> "Make it work, make it right, make it fast." — Kent Beck
+## 💭 A note before you go
 
-⭐ Thanks for visiting my profile! If you like my work, don't forget to star my repositories.
+```dart
+void main() {
+  print("Thanks for stopping by 👋");
+  print("I don't chase big leaps — I chase showing up.");
+  print("One commit, one bug fix, one small feature at a time.");
+  print("That's how everything above this line got built.");
+}
+```
+
+**P.S.** — Consistency over intensity. That's the whole philosophy behind every repo here.
+If that resonates with how you build too, a ⭐ on my repos means more than you'd think.
+
+<p align="left">
+  <a href="https://github.com/meghanacheppulla?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_Star_my_repos-FFB84B?style=for-the-badge&logoColor=black" alt="Star repos"/>
+  </a>
+</p>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
