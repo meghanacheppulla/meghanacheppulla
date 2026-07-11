@@ -59,8 +59,6 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanacheppulla&theme=dark)
-
 ---
 
 ## 👀 Profile Views
