@@ -125,4 +125,5 @@ void main() {
 ```
 ## 💭 Favorite Quote
    > "Make it work, make it right, make it fast." — Kent Beck
-   ⭐ Thanks for visiting my profile!...
+
+   > ⭐ Thanks for visiting my profile!...
