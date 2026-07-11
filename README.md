@@ -1,5 +1,5 @@
+![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner.svg?v=2)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/master/banner.svg)
 
 ---
 
