@@ -99,9 +99,6 @@ Practice repositories for core programming and problem-solving in C and Python.
   <a href="mailto:meghanacheppulla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/meghana-portfolio(11).html" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://github.com/meghanacheppulla" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
