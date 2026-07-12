@@ -1,6 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner%20(7).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-https://github.com/meghanacheppulla/meghanacheppulla/blob/main/meghana-portfolio%20(8).html
 
 ---
 
@@ -100,7 +99,7 @@ Practice repositories for core programming and problem-solving in C and Python.
   <a href="mailto:meghanacheppulla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="file:///C:/Users/megha/Downloads/meghana-portfolio%20(7).html" target="_blank">
+  <a href="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/meghana-portfolio%20(8).html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/meghanacheppulla" target="_blank">
