@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meghana Cheppulla — Flutter Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B1120;
+    --bg-panel:#111A2E;
+    --line:#233047;
+    --blue:#4F8EF7;
+    --coral:#FF6B4A;
+    --text:#E8EDF4;
+    --muted:#8B96A8;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+    line-height:1.6;
+    overflow-x:hidden;
+  }
+  h1,h2,h3{font-family:'Space Grotesk',sans-serif;}
+  .mono{font-family:'JetBrains Mono',monospace;}
+  a{color:inherit;}
+  :focus-visible{outline:2px solid var(--blue); outline-offset:3px;}
+
+  .wrap{max-width:960px; margin:0 auto; padding:0 24px;}
+
+  /* NAV */
+  nav{
+    position:sticky; top:0; z-index:50;
+    background:rgba(11,17,32,0.85); backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line);
+  }
+  nav .wrap{display:flex; justify-content:space-between; align-items:center; height:64px;}
+  .nav-brand{font-family:'JetBrains Mono',monospace; font-weight:500; font-size:15px; color:var(--blue);}
+  .nav-links{display:flex; gap:28px; list-style:none;}
+  .nav-links a{font-size:14px; color:var(--muted); text-decoration:none; transition:color .2s;}
+  .nav-links a:hover{color:var(--text);}
+
+  /* HERO — widget tree signature */
+  .hero{padding:100px 0 60px; position:relative;}
+  .tree-line{
+    color:var(--muted); opacity:.55; font-family:'JetBrains Mono',monospace; font-size:14px;
+    white-space:pre; line-height:1.9;
+  }
+  .tree-line .tag{color:var(--blue);}
+  .tree-line .prop{color:var(--coral);}
+  .hero-name{
+    font-size:clamp(38px,6vw,64px); font-weight:700; line-height:1.05; margin:18px 0 10px;
+    letter-spacing:-0.02em;
+  }
+  .hero-role{color:var(--muted); font-size:19px; max-width:520px; margin-bottom:28px;}
+  .hero-badges{display:flex; gap:10px; flex-wrap:wrap; margin-bottom:36px;}
+  .pill{
+    font-family:'JetBrains Mono',monospace; font-size:12.5px; padding:6px 14px;
+    border:1px solid var(--line); border-radius:20px; color:var(--muted);
+  }
+  .pill.accent{border-color:var(--blue); color:var(--blue);}
+  .cta-row{display:flex; gap:14px; flex-wrap:wrap;}
+  .btn{
+    font-size:14px; font-weight:500; padding:12px 22px; border-radius:8px;
+    text-decoration:none; transition:transform .15s, background .15s;
+    display:inline-block;
+  }
+  .btn-primary{background:var(--blue); color:#08101F;}
+  .btn-primary:hover{transform:translateY(-2px);}
+  .btn-ghost{border:1px solid var(--line); color:var(--text);}
+  .btn-ghost:hover{border-color:var(--blue); transform:translateY(-2px);}
+
+  /* SECTION */
+  section{padding:70px 0; border-top:1px solid var(--line);}
+  .eyebrow{
+    font-family:'JetBrains Mono',monospace; font-size:12.5px; color:var(--blue);
+    text-transform:uppercase; letter-spacing:.08em; margin-bottom:10px;
+  }
+  .sec-title{font-size:30px; font-weight:600; margin-bottom:36px;}
+
+  /* ABOUT */
+  .about-grid{display:grid; grid-template-columns:1fr; gap:16px;}
+  .about-item{
+    display:flex; gap:14px; padding:16px 0; border-bottom:1px solid var(--line);
+  }
+  .about-item:last-child{border-bottom:none;}
+  .about-item .dot{color:var(--coral); font-family:'JetBrains Mono',monospace;}
+  .about-item p{color:var(--muted); font-size:15.5px;}
+
+  /* STACK */
+  .stack-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:18px;}
+  .stack-card{
+    background:var(--bg-panel); border:1px solid var(--line); border-radius:10px; padding:20px;
+  }
+  .stack-card h3{font-size:13px; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; margin-bottom:12px; font-weight:500;}
+  .chip-row{display:flex; flex-wrap:wrap; gap:8px;}
+  .chip{
+    font-family:'JetBrains Mono',monospace; font-size:12.5px; padding:5px 11px;
+    background:rgba(79,142,247,0.08); border:1px solid var(--line); border-radius:6px;
+  }
+
+  /* PROJECTS as widget-tree nodes */
+  .project{
+    position:relative; padding:26px 0 26px 32px; border-left:2px solid var(--line);
+    margin-left:6px;
+  }
+  .project::before{
+    content:''; position:absolute; left:-7px; top:32px; width:12px; height:12px;
+    border-radius:50%; background:var(--bg); border:2px solid var(--blue);
+  }
+  .project-tag{font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--coral); margin-bottom:6px;}
+  .project h3{font-size:20px; margin-bottom:8px;}
+  .project p{color:var(--muted); font-size:14.5px; margin-bottom:12px; max-width:560px;}
+  .project a{font-size:13.5px; color:var(--blue); text-decoration:none;}
+  .project a:hover{text-decoration:underline;}
+
+  /* ACHIEVEMENTS */
+  .ach-card{
+    background:var(--bg-panel); border:1px solid var(--line); border-radius:10px;
+    padding:24px; display:flex; gap:18px; align-items:flex-start;
+  }
+  .ach-card .trophy{font-size:28px;}
+  .ach-card h3{font-size:17px; margin-bottom:6px;}
+  .ach-card p{color:var(--muted); font-size:14.5px;}
+
+  /* CONTACT */
+  .contact-links{display:flex; gap:14px; flex-wrap:wrap; margin-top:20px;}
+  footer{
+    text-align:center; padding:36px 0; color:var(--muted); font-size:13px;
+    border-top:1px solid var(--line);
+  }
+
+  @media(max-width:640px){
+    .tree-line{font-size:11.5px;}
+    .hero{padding:70px 0 40px;}
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <div class="nav-brand">meghana.dev</div>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#stack">Stack</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="tree-line"><span class="tag">MaterialApp</span>(
+  <span class="prop">home:</span> <span class="tag">Developer</span>(</div>
+    <h1 class="hero-name">Meghana Cheppulla</h1>
+    <p class="hero-role">Flutter developer building AI-powered mobile apps — one widget tree at a time.</p>
+    <div class="hero-badges">
+      <span class="pill accent">🏆 Top 5 Finalist · Project Space Hackathon</span>
+      <span class="pill">160+ teams</span>
+      <span class="pill">900+ participants</span>
+    </div>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="#projects">View projects</a>
+      <a class="btn btn-ghost" href="https://github.com/meghanacheppulla" target="_blank">GitHub ↗</a>
+    </div>
+  </div>
+</header>
+
+<section id="about">
+  <div class="wrap">
+    <div class="eyebrow">// about</div>
+    <h2 class="sec-title">What I'm building toward</h2>
+    <div class="about-grid">
+      <div class="about-item"><span class="dot mono">01</span><p>Flutter developer focused on shipping AI-powered mobile apps with clean, maintainable widget architecture.</p></div>
+      <div class="about-item"><span class="dot mono">02</span><p>Selected as a Top 5 Finalist out of 160+ teams and 900+ participants at the Project Space hackathon.</p></div>
+      <div class="about-item"><span class="dot mono">03</span><p>Currently deepening AWS deployment skills to take mobile apps from prototype to production infrastructure.</p></div>
+      <div class="about-item"><span class="dot mono">04</span><p>Strong foundation in C, Python, and Java underpins how I approach problem-solving before I ever open Flutter.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="stack">
+  <div class="wrap">
+    <div class="eyebrow">// stack</div>
+    <h2 class="sec-title">Tools I reach for</h2>
+    <div class="stack-grid">
+      <div class="stack-card">
+        <h3>Languages</h3>
+        <div class="chip-row">
+          <span class="chip">Java</span><span class="chip">Python</span><span class="chip">C</span><span class="chip">HTML</span>
+        </div>
+      </div>
+      <div class="stack-card">
+        <h3>Mobile</h3>
+        <div class="chip-row">
+          <span class="chip">Flutter</span><span class="chip">Dart</span>
+        </div>
+      </div>
+      <div class="stack-card">
+        <h3>Cloud & Tools</h3>
+        <div class="chip-row">
+          <span class="chip">AWS</span><span class="chip">Git</span><span class="chip">GitHub</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="projects">
+  <div class="wrap">
+    <div class="eyebrow">// projects</div>
+    <h2 class="sec-title">Selected work</h2>
+
+    <div class="project">
+      <div class="project-tag">Widget(cloud_deployment)</div>
+      <h3>AWS-Deploy</h3>
+      <p>A Java-based project focused on deploying applications to AWS infrastructure — from build to live environment.</p>
+      <a href="https://github.com/meghanacheppulla/Aws-Deploy" target="_blank">View repository ↗</a>
+    </div>
+
+    <div class="project">
+      <div class="project-tag">Widget(problem_solving)</div>
+      <h3>CodeMind</h3>
+      <p>Practice repositories for core programming and algorithmic problem-solving, written in C and Python.</p>
+      <a href="https://github.com/meghanacheppulla/codemind-c" target="_blank">codemind-c ↗</a> &nbsp;·&nbsp;
+      <a href="https://github.com/meghanacheppulla/codemind-python" target="_blank">codemind-python ↗</a>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">// recognition</div>
+    <h2 class="sec-title">Achievements</h2>
+    <div class="ach-card">
+      <div class="trophy">🏆</div>
+      <div>
+        <h3>Top 5 Finalist — Project Space Hackathon</h3>
+        <p>Ranked in the top 5 out of 160+ competing teams and 900+ participants.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="wrap">
+    <div class="eyebrow">// contact</div>
+    <h2 class="sec-title">Let's connect</h2>
+    <p style="color:var(--muted); max-width:480px;">Open to Flutter development opportunities, collaborations, and interesting problems to solve.</p>
+    <div class="contact-links">
+      <a class="btn btn-ghost" href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">LinkedIn ↗</a>
+      <a class="btn btn-ghost" href="mailto:youremail@gmail.com">Email</a>
+      <a class="btn btn-ghost" href="https://github.com/meghanacheppulla" target="_blank">GitHub ↗</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap mono">"Make it work, make it right, make it fast." — Kent Beck</div>
+</footer>
+
+</body>
+</html>
