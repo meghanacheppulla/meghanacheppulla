@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner%20(7).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-file:///C:/Users/megha/Downloads/meghana-portfolio%20(10).html
+
 
 ---
 
