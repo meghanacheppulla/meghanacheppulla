@@ -1,0 +1,69 @@
+<svg width="320" height="70" viewBox="0 0 320 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="btnGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed">
+        <animate attributeName="stop-color"
+          values="#7c3aed;#3b82f6;#06b6d4;#3b82f6;#7c3aed"
+          dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#60a5fa">
+        <animate attributeName="stop-color"
+          values="#60a5fa;#06b6d4;#7c3aed;#06b6d4;#60a5fa"
+          dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color"
+          values="#06b6d4;#7c3aed;#3b82f6;#7c3aed;#06b6d4"
+          dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur">
+        <animate attributeName="stdDeviation" values="4;9;4" dur="2s" repeatCount="indefinite" />
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <clipPath id="pillClip">
+      <rect x="4" y="4" width="312" height="62" rx="31" />
+    </clipPath>
+  </defs>
+
+  <!-- glow backdrop -->
+  <rect x="4" y="4" width="312" height="62" rx="31" fill="url(#btnGrad)" filter="url(#glow)" opacity="0.55" />
+
+  <!-- main pill -->
+  <rect x="4" y="4" width="312" height="62" rx="31" fill="url(#btnGrad)" stroke="#0b1220" stroke-width="1.5" />
+
+  <!-- shimmer sweep -->
+  <g clip-path="url(#pillClip)">
+    <rect x="-80" y="4" width="60" height="62" fill="#ffffff" opacity="0.25" transform="skewX(-20)">
+      <animate attributeName="x" values="-80;360" dur="2.6s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- icon: triangle "play/visit" mark -->
+  <polygon points="34,26 34,44 50,35" fill="#ffffff">
+    <animateTransform attributeName="transform" type="scale" values="1;1.15;1"
+      dur="1.6s" repeatCount="indefinite" additive="sum" />
+  </polygon>
+
+  <!-- label -->
+  <text x="70" y="35" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="17"
+        font-weight="700" fill="#ffffff" letter-spacing="2" dominant-baseline="middle">
+    VIEW PORTFOLIO
+  </text>
+  <text x="70" y="52" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9.5"
+        fill="#e2e8f0" letter-spacing="1" opacity="0.85">
+    meghanacheppulla.github.io ↗
+  </text>
+
+  <!-- pulsing ring border -->
+  <rect x="4" y="4" width="312" height="62" rx="31" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.35">
+    <animate attributeName="opacity" values="0.15;0.55;0.15" dur="2s" repeatCount="indefinite" />
+  </rect>
+</svg>
