@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner%20(7).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://meghanacheppulla.github.io/meghanacheppulla/)
+[![Portfolio](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/portfolio-button.svg)](https://meghanacheppulla.github.io/meghanacheppulla/)
 
 
 ---
