@@ -1,5 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner%20(7).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+[![Portfolio](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/portfolio-button.svg)](https://meghanacheppulla.github.io/meghanacheppulla/)
 <p align="center">
   <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
     <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/portfolio-button.svg" alt="Portfolio">
