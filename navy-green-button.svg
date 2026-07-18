@@ -1,0 +1,52 @@
+<svg width="340" height="80" viewBox="0 0 340 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1929"/>
+      <stop offset="100%" stop-color="#0f2540"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <filter id="greenGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b">
+        <animate attributeName="stdDeviation" values="3;7;3" dur="2.2s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="navyClip"><rect x="5" y="5" width="330" height="70" rx="18"/></clipPath>
+  </defs>
+
+  <!-- navy base -->
+  <rect x="5" y="5" width="330" height="70" rx="18" fill="url(#navyGrad)"/>
+
+  <!-- animated green border -->
+  <rect x="5" y="5" width="330" height="70" rx="18" fill="none" stroke="url(#greenGrad)" stroke-width="2" filter="url(#greenGlow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- shimmer sweep -->
+  <g clip-path="url(#navyClip)">
+    <rect x="-80" y="5" width="60" height="70" fill="#a78bfa" opacity="0.15" transform="skewX(-20)">
+      <animate attributeName="x" values="-80;360" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- play icon -->
+  <circle cx="42" cy="40" r="17" fill="#0f2540" stroke="url(#greenGrad)" stroke-width="1.5"/>
+  <polygon points="37,32 37,48 51,40" fill="url(#greenGrad)" filter="url(#greenGlow)">
+    <animateTransform attributeName="transform" type="scale" values="1;1.12;1" dur="1.6s" repeatCount="indefinite" additive="sum"/>
+  </polygon>
+
+  <!-- text -->
+  <text x="72" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="800"
+        fill="#c4b5fd" letter-spacing="1.5" dominant-baseline="middle">VIEW PORTFOLIO</text>
+  <text x="72" y="53" font-family="Arial, sans-serif" font-size="10" fill="#ddd6fe" opacity="0.85">
+    meghanacheppulla.github.io ↗
+  </text>
+
+  <!-- floating dots -->
+  <circle cx="300" cy="18" r="1.5" fill="#c4b5fd"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="315" cy="55" r="1.3" fill="#a78bfa"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+</svg>
