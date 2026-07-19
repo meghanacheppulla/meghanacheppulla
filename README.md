@@ -82,7 +82,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-##  ![Banner]( )
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_views.svg )
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=blue)
 
