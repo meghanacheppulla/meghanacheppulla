@@ -132,9 +132,10 @@ Practice repositories for core programming and problem-solving in C and Python.
 // Not the loudest coder. Just the one who shows up daily.
 print("Thanks for stopping by 👋 — Meghana");
 ```
-## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
+
 
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
+## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
 ```
 
 
