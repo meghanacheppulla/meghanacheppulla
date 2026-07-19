@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  ![Banner]
 
 **Mobile**  
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AWS-Deploy — Cloud Deployment Project
+### ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_aws.svgt)
 Java-based project focused on deploying applications to AWS infrastructure.
 
 **Tech Stack:** Java • AWS
@@ -55,7 +55,7 @@ Java-based project focused on deploying applications to AWS infrastructure.
 
 ---
 
-### 🧠 CodeMind — Problem Solving Practice
+###  ![Banner] — Problem Solving Practice
 Practice repositories for core programming and problem-solving in C and Python.
 
 **Tech Stack:** C • Python
@@ -66,7 +66,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-## 📊 GitHub Stats
+##  ![Banner]
 
    ![Meghana's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=dark)
 
@@ -80,7 +80,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-## 👀 Profile Views
+##  ![Banner]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=blue)
 
@@ -102,7 +102,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-## 🌐 Connect with Me
+##  ![Banner]
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">
@@ -122,7 +122,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-## 💭 A note before you go
+##  ![Banner]
 
 ```dart
 // Not the loudest coder. Just the one who shows up daily.
@@ -131,7 +131,7 @@ print("Thanks for stopping by 👋 — Meghana");
 
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
 ```
-## 💭 Favorite Quote
+##  ![Banner]
    > "Make it work, make it right, make it fast." — Kent Beck
 
    > ⭐ Thanks for visiting my profile!...
