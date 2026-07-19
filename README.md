@@ -55,7 +55,8 @@ Java-based project focused on deploying applications to AWS infrastructure.
 
 ---
 
-###  ![Banner] — Problem Solving Practice
+###  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_codemind.svg)
+ — Problem Solving Practice
 Practice repositories for core programming and problem-solving in C and Python.
 
 **Tech Stack:** C • Python
@@ -66,7 +67,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-##  ![Banner]
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats.svg)
 
    ![Meghana's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=dark)
 
@@ -74,13 +75,14 @@ Practice repositories for core programming and problem-solving in C and Python.
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanacheppulla&theme=dark)
 
-   ### ✍️ Random Dev Quote
+   ###![Banner] (https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
+
 
    ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-##  ![Banner]
+##  ![Banner]( )
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=blue)
 
@@ -102,7 +104,8 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-##  ![Banner]
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_connect.svg)
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">
@@ -122,7 +125,8 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-##  ![Banner]
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
+
 
 ```dart
 // Not the loudest coder. Just the one who shows up daily.
@@ -131,7 +135,8 @@ print("Thanks for stopping by 👋 — Meghana");
 
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
 ```
-##  ![Banner]
+##  ![Banner]( https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_note.svg)
+
    > "Make it work, make it right, make it fast." — Kent Beck
 
    > ⭐ Thanks for visiting my profile!...
