@@ -21,8 +21,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Mobile**  
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 
