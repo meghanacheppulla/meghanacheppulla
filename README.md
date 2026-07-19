@@ -104,7 +104,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_connect.svg)
 
 
 <p align="left">
