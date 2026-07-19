@@ -75,7 +75,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanacheppulla&theme=dark)
 
-   ###![Banner] (https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
+   ###![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
 
 
    ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
