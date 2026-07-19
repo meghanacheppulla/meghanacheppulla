@@ -19,7 +19,7 @@
 
 ---
 
-##  ![Banner]
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_techstack.svg)
 
 **Mobile**  
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
