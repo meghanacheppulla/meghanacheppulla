@@ -1,0 +1,27 @@
+<svg width="460" height="64" viewBox="0 0 460 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#241a38"/>
+      <stop offset="100%" stop-color="#332350"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#8b7ff0"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="20%" stop-color="#c084fc"/>
+      <stop offset="45%" stop-color="#a78bfa"/>
+      <stop offset="70%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="0 0; 460 0; 0 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="456" height="60" rx="30" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="3"/>
+  <text x="30" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="url(#textGrad)">
+    <tspan>👀</tspan>
+    <tspan dx="12">Profile Views</tspan>
+  </text>
+</svg>
