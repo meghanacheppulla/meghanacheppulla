@@ -1,4 +1,3 @@
-![Banner](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/banner%20(7).svg)
 ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/hero_banner%20(5).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 <p align="center">
