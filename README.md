@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg
 
 - 📱 Flutter Developer passionate about building AI-powered mobile apps
 - 🏆 Top 5 Finalist — Project Space (160+ teams, 900+ participants)
