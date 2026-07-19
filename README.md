@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-### ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_aws.svgt)
+### ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_aws.svg)
 Java-based project focused on deploying applications to AWS infrastructure.
 
 **Tech Stack:** Java • AWS
