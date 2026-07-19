@@ -21,20 +21,28 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 🛠️ Tech Stack
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Mobile**  
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+
+**Database**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+**Cloud & DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,ts,vscode" />
 
 ---
 
