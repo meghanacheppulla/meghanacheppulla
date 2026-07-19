@@ -88,7 +88,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ---
 
-## 🌱 Currently Learning
+## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_learning.svg)
 - Advanced Flutter (state management, animations, performance)
 - AI Engineering & LLM Integration
 - AWS & Cloud Deployment
@@ -132,10 +132,11 @@ Practice repositories for core programming and problem-solving in C and Python.
 // Not the loudest coder. Just the one who shows up daily.
 print("Thanks for stopping by 👋 — Meghana");
 ```
+## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
 
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
 ```
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
+
 
    > "Make it work, make it right, make it fast." — Kent Beck
 
