@@ -1,5 +1,6 @@
 ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/hero_banner%20(5).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg)
 <p align="center">
   <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
     <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/navy-green-button.svg" alt="Portfolio">
