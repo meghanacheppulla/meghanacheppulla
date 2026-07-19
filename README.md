@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/navy-green-button.svg" alt="Portfolio">
   </a>
 </p>
- <img src="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/lavender-button.svg"alt="Portfolio">
+
 
 
 ---
