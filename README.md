@@ -1,6 +1,5 @@
 ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/hero_banner%20(5).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg)
 <p align="center">
   <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
     <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/navy-green-button.svg" alt="Portfolio">
@@ -10,7 +9,7 @@
 
 ---
 
-## 🚀 https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg
+## 🚀 ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg)
 
 - 📱 Flutter Developer passionate about building AI-powered mobile apps
 - 🏆 Top 5 Finalist — Project Space (160+ teams, 900+ participants)
