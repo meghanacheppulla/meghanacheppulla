@@ -110,7 +110,7 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1" alt="LinkedIn"/>
   </a>
   <a href="mailto:meghanacheppulla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
