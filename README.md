@@ -6,7 +6,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="github snake">
+</p>
 
 ---
 
@@ -75,8 +77,6 @@ Practice repositories for core programming and problem-solving in C and Python.
    ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meghanacheppulla&theme=dark)
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanacheppulla&theme=dark)
-
-![github snake](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg)
 
    ###![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
 
