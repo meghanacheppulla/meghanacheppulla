@@ -18,6 +18,9 @@
 - ⚡ Strong foundation in C, Python, and Java
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="github snake">
+</p>
 
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_techstack.svg)
 
