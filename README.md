@@ -76,6 +76,8 @@ Practice repositories for core programming and problem-solving in C and Python.
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanacheppulla&theme=dark)
 
+![github snake](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg)
+
    ###![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
 
 
@@ -137,9 +139,8 @@ print("Thanks for stopping by 👋 — Meghana");
 
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
 ## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
-```
 
 
    > "Make it work, make it right, make it fast." — Kent Beck
 
-   > ⭐ Thanks for visiting my profile!...
+   > ⭐ Thanks for visiting my profile!
