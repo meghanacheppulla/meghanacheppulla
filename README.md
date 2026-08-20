@@ -14,9 +14,6 @@
 - ⚡ Strong foundation in C, Python, and Java
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="github snake">
-</p>
 
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_techstack.svg)
 
@@ -114,6 +111,9 @@
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="github snake">
+</p>
 
 ---
 
@@ -124,6 +124,7 @@
 // Not the loudest coder. Just the one who shows up daily.
 print("Thanks for stopping by 👋 — Meghana");
 ```
+
 
 
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
