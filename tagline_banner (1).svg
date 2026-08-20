@@ -1,0 +1,8 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="892" height="102" rx="22" ry="22"
+        fill="#0D1117" stroke="#FF8C00" stroke-width="4"/>
+  <text x="450" y="66" font-family="Verdana, Arial, sans-serif" font-size="34"
+        font-weight="bold" fill="#B19CD9" text-anchor="middle" letter-spacing="1">
+    "Code. Learn. Build. Repeat."
+  </text>
+</svg>
