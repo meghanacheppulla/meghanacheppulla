@@ -40,7 +40,7 @@
 | 📁 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
 | 🤖 [**Qlue**](https://github.com/meghanacheppulla/Qlue_v2) | AI-powered voice interview simulation platform with real-time interaction. Serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| 📚 [**BookStore**](https://github.com/meghanacheppulla/BOOKSTORE) | Full-stack MERN e-commerce app with JWT authentication, role-based access control, and order management. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 📚[**BookStore**](https://github.com/meghanacheppulla/BOOKSTORE) | Full-stack MERN e-commerce app with JWT authentication, role-based access control, and order management. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats%20(1).svg)
