@@ -57,9 +57,7 @@
 
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_views.svg )
-
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=blue)
-
 ---
 ## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_learning.svg)
 - Advanced Flutter (state management, animations, performance)
