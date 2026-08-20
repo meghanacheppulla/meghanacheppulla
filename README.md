@@ -44,7 +44,7 @@
 ---
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
-## <img src="https://capsule-render.vercel.app/api?type=rounded&color=2D1B4E&height=70&section=header&text=🚀%20FEATURED%20PROJECTS&fontSize=22&fontColor=B19CD9&fontAlignY=50&stroke=FF8C00&strokeWidth=4" width="380"/>
+## <img src="https://capsule-render.vercel.app/api?type=rounded&color=2D1B4E&height=70&section=header&text=🚀%20FEATURED%20PROJECTS&fontSize=22&fontColor=B19CD9&fontAlignY=50&stroke=FF8C00&strokeWidth=5&descAlignY=50" width="380"/>
 
 | 📁 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
