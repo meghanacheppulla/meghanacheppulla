@@ -102,12 +102,15 @@
   <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="github snake">
 </p>
 ---
+
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_note.svg)
+
 ```dart
 // Not the loudest coder. Just the one who shows up daily.
 print("Thanks for stopping by 👋 — Meghana");
 ```
 ⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
+
 ## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
 
    > "Make it work, make it right, make it fast." — Kent Beck
