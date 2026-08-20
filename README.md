@@ -47,14 +47,23 @@
 
 ---
 
-## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_projects.svg)
+## 🚀 Featured Projects
 
-### ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_aws.svg)
-Java-based project focused on deploying applications to AWS infrastructure.
+### 🎙️ Qlue — AI-Powered Voice Interview Simulator
+An AI-driven mock interview platform with real-time voice interaction, built on a serverless AWS backend with a Flutter frontend.
 
-**Tech Stack:** Java • AWS
+**Tech Stack:** Flutter • Node.js (AWS Lambda) • API Gateway • Bedrock • Polly • DynamoDB • Firebase Auth
 
-🔗 **Repository:** https://github.com/meghanacheppulla/Aws-Deploy
+🔗 **Repository:** https://github.com/meghanacheppulla/Qlue_v2
+
+---
+
+### 🛒 BookStore — Full-Stack E-Commerce Platform
+A MERN-stack e-commerce application with JWT authentication, role-based access control, and order management.
+
+**Tech Stack:** MongoDB • Express.js • React • Node.js
+
+🔗 **Repository:** https://github.com/meghanacheppulla/BOOKSTORE
 
 ---
 
