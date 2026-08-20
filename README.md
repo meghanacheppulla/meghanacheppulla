@@ -1,10 +1,6 @@
 ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/hero_banner%20(7).svg)
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-<p align="center">
-  <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
-    <img src="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/lavender-button.svg" alt="Portfolio">
-  </a>
-</p>
+
 
 
 ---
@@ -107,6 +103,11 @@
   </a>
   <a href="https://github.com/meghanacheppulla" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
+    <img src="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/lavender-button.svg" alt="Portfolio">
   </a>
 </p>
 
