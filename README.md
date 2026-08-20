@@ -44,7 +44,7 @@
 ---
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
-##![Featured Projects](title_projects.svg)
+##![Featured Projects](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_projects%20(1).svg)
 
 | 📁 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
