@@ -54,7 +54,6 @@
 
 
    ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_views.svg )
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=blue)
