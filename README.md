@@ -43,7 +43,7 @@
 | 🛒 [**BookStore**](https://github.com/meghanacheppulla/BOOKSTORE) | Full-stack MERN e-commerce app with JWT authentication, role-based access control, and order management. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 ---
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats.svg)
+##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats%20(1).svg)
 
 [![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&icon_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
