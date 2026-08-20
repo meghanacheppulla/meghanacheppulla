@@ -44,7 +44,7 @@
 ---
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
-## ![Featured Projects](https://img.shields.io/badge/🚀_Featured_Projects-2D1B4E?style=for-the-badge&labelColor=2D1B4E&color=2D1B4E&logoColor=B19CD9)
+## ![Featured Projects](https://img.shields.io/badge/🚀_FEATURED_PROJECTS-2D1B4E?style=for-the-badge&logoColor=white)
 
 | 📁 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
