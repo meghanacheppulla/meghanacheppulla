@@ -91,6 +91,7 @@
     <img src="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/lavender-button.svg" alt="Portfolio">
   </a>
 </p>
+ ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_snake.svg)
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
