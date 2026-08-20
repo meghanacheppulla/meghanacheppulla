@@ -72,11 +72,11 @@ Practice repositories for core programming and problem-solving in C and Python.
 
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats.svg)
 
-   ![Meghana's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=dark)
+   ![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=dark)
 
-   ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meghanacheppulla&theme=dark)
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&theme=dark)
 
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanacheppulla&theme=dark)
+   ![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&theme=dark)
 
    ###![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
 
