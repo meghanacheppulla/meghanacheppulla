@@ -45,8 +45,8 @@
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats%20(1).svg)
 
-[![Meghana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meghanacheppulla&show_icons=true)](https://github.com/meghanacheppulla)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
+[![Meghana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&icon_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
 
    ![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&theme=dark)
 
