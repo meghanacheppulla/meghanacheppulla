@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4C,100:3ECF8E&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6FFF3&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=A8E6C9)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=3ECF8E&center=true&vCenter=true&width=800&lines=Java+%7C+Python+%7C+JavaScript+%7C+Dart;React.js+%7C+Node.js+%7C+Express+%7C+Flutter;HTML5+%7C+CSS3+%7C+Spring+Boot;MongoDB+%7C+MySQL+%7C+Firebase;AWS+%7C+Docker+%7C+Git+%7C+Linux;GitHub+%7C+VS+Code+%7C+Postman+%7C+Figma;REST+%7C+JWT+%7C+OpenAI+API)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E7A4C?style=for-the-badge&logo=linkedin&logoColor=E6FFF3)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E7A4C?style=for-the-badge&logo=github&logoColor=E6FFF3)](https://github.com/meghanacheppulla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E7A4C?style=for-the-badge&logo=googlechrome&logoColor=E6FFF3)](https://meghanacheppulla.github.io/meghanacheppulla/)
