@@ -11,6 +11,8 @@
 
 <br/>
 
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
 ## About Me
 
 Final-year B.Tech Computer Science and Engineering student at **Aditya University** (CGPA: 8.83, Class of 2027), seeking **Software Development Engineer** roles and internships. Experienced across the full stack — from Flutter and React on the frontend to Spring Boot, Node.js, and cloud infrastructure on the backend.
@@ -21,7 +23,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 - ☁️ Actively building and deploying projects on AWS
 - 🧠 Interested in AI systems, mobile development, and cloud architecture
 
----
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ## Tech Stack
 
@@ -81,7 +83,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 </tr>
 </table>
 
----
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ## Featured Projects
 
@@ -90,7 +92,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 | 🤖 **[Qlue](https://github.com/meghanacheppulla/Qlue_v2)** | AI-powered voice interview simulation platform with real-time interaction, built on a serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-1E7A4C?style=flat-square&logo=flutter&logoColor=E6FFF3) ![AWS](https://img.shields.io/badge/-AWS-1E7A4C?style=flat-square&logo=amazonaws&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) |
 | 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React-1E7A4C?style=flat-square&logo=react&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) ![MongoDB](https://img.shields.io/badge/-MongoDB-1E7A4C?style=flat-square&logo=mongodb&logoColor=E6FFF3) |
 
----
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ## Currently Building Toward
 
@@ -105,7 +107,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 - Data structures & algorithms
 - Mobile app architecture (MVVM, Clean Architecture)
 
----
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ## GitHub Stats
 
@@ -120,7 +122,15 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 </div>
 
----
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/output/github-snake-green.svg" width="900" alt="contribution snake">
+</p>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 <div align="center">
 
