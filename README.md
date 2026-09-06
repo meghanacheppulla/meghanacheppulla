@@ -132,7 +132,9 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
   <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/output/github-snake-green.svg" width="900" alt="contribution snake">
 </p>
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/output/github-snake-green.svg" width="900" alt="contribution snake">
+</p>
 
 <div align="center">
 
