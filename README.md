@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4C,100:3ECF8E&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6FFF3&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=A8E6C9)
 
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E7A4C?style=for-the-badge&logo=linkedin&logoColor=E6FFF3)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E7A4C?style=for-the-badge&logo=github&logoColor=E6FFF3)](https://github.com/meghanacheppulla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E7A4C?style=for-the-badge&logo=googlechrome&logoColor=E6FFF3)](https://meghanacheppulla.github.io/meghanacheppulla/)
@@ -115,8 +113,8 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 <div align="center">
 
-[![Meghana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&icon_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+[![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&icon_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&background=0B3D2E&ring=3ECF8E&fire=A8E6C9&currStreakLabel=A8E6C9&sideLabels=DFF7E9&dates=DFF7E9&border=1E7A4C)
 
@@ -127,10 +125,6 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
 ## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/output/github-snake-green.svg" width="900" alt="contribution snake">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/output/github-snake-green.svg" width="900" alt="contribution snake">
