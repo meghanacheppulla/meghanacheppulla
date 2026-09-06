@@ -153,6 +153,6 @@ print("Thanks for stopping by 👋 — Meghana");
 
 <div align="center">
 
-**Open to Software Development Engineer roles and internships — let's connect.**
+
 
 </div>
