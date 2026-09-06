@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,50:6B4E9E,100:B19CD9&height=220&section=header&text=Meghana%20Cheppulla&fontSize=55&fontColor=F3EEFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Final%20Year%20CSE%20%7C%20Full%20Stack%20%26%20Cloud&descAlignY=58&descSize=18&descColor=D4C4F0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,100:FF8C42&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6D9FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=FFB877)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B3B78?style=for-the-badge&logo=linkedin&logoColor=D4C4F0)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
 [![GitHub](https://img.shields.io/badge/GitHub-4B3B78?style=for-the-badge&logo=github&logoColor=D4C4F0)](https://github.com/meghanacheppulla)
