@@ -94,6 +94,30 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
+## Experience & Education
+
+| Period | Role / Distinction | Organization & Key Deliverables |
+|---|---|---|
+| **—** `HACKATHON` | **Top 5 Finalist / 900+ Participants**<br/>Project Space | • Competed against 160+ teams in a national-level hackathon<br/>• Delivered a working project under competitive time constraints |
+| **—** `INTERNSHIP` | **Full Stack Development Intern**<br/>Technical Hub | • Built full-stack features across the MERN stack<br/>• Collaborated in a team environment on real deliverables |
+| **Present** `EDUCATION` | **B.Tech in Computer Science & Engineering**<br/>Aditya University — CGPA 8.83 | • Specializing in Full-Stack Development, Cloud, and AI Systems<br/>• Graduating 2027 |
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1E7A4C?style=for-the-badge&logo=cisco&logoColor=E6FFF3" />
+  <img src="https://img.shields.io/badge/Oracle_Academy-1E7A4C?style=for-the-badge&logo=oracle&logoColor=E6FFF3" />
+  <img src="https://img.shields.io/badge/Microsoft-1E7A4C?style=for-the-badge&logo=microsoft&logoColor=E6FFF3" />
+  <img src="https://img.shields.io/badge/MongoDB_University-1E7A4C?style=for-the-badge&logo=mongodb&logoColor=E6FFF3" />
+  <img src="https://img.shields.io/badge/Certiport-1E7A4C?style=for-the-badge&logoColor=E6FFF3" />
+  <img src="https://img.shields.io/badge/Board_Infinity-1E7A4C?style=for-the-badge&logoColor=E6FFF3" />
+  <img src="https://img.shields.io/badge/Wadhwani_Foundation-1E7A4C?style=for-the-badge&logoColor=E6FFF3" />
+</p>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
 ## Currently Building Toward
 
 - Advanced Flutter (state management, animations, performance)
@@ -153,6 +177,6 @@ print("Thanks for stopping by 👋 — Meghana");
 
 <div align="center">
 
-
+**Open to Software Development Engineer roles and internships — let's connect.**
 
 </div>
