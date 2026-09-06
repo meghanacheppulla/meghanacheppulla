@@ -126,7 +126,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-## Quote of the Moment
+## Random Quote 
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-## A Note From Me
+## A Note 
 
 ```dart
 // Not the loudest coder. Just the one who shows up daily.
@@ -155,6 +155,6 @@ print("Thanks for stopping by 👋 — Meghana");
 
 <div align="center">
 
-**Open to Software Development Engineer roles and internships — let's connect.**
+
 
 </div>
