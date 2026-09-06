@@ -3,8 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,100:FF8C42&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6D9FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=FFB877)
 
 </div>
-![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/hero_banner%20(7).svg)
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg)
 
