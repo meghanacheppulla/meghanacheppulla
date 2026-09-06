@@ -11,27 +11,58 @@
 
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_techstack.svg)
+## 🛠️ Tech Stack
 
-**Mobile**  
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,dart" /><br/>
+<sub>Java · Python · JavaScript · Dart</sub>
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</td>
+<td valign="top" width="33%">
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+### 🌐 Web & Mobile
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,html,css" /><br/>
+<sub>React.js · Node.js · Express · Flutter · HTML5 · CSS3</sub>
 
-**Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+<td valign="top" width="33%">
 
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase" />
+### 🗄️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase" /><br/>
+<sub>Spring Boot · MongoDB · MySQL · Firebase</sub>
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,ts,vscode" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux" /><br/>
+<sub>AWS · Docker · Git · Linux</sub>
+
+</td>
+<td valign="top" width="33%">
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma" /><br/>
+<sub>GitHub · VS Code · Postman · Figma</sub>
+
+</td>
+<td valign="top" width="33%">
+
+### 🔌 APIs & Messaging
+<br/>
+<img src="https://img.shields.io/badge/REST-2D1B4E?style=for-the-badge&logo=fastapi&logoColor=orange" />
+<img src="https://img.shields.io/badge/JWT-2D1B4E?style=for-the-badge&logo=jsonwebtokens&logoColor=orange" />
+<img src="https://img.shields.io/badge/OpenAI_API-2D1B4E?style=for-the-badge&logo=openai&logoColor=orange" />
+
+</td>
+</tr>
+</table>
 
 ---
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
