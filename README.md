@@ -1,6 +1,18 @@
-![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/hero_banner%20(7).svg)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4C,100:3ECF8E&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6FFF3&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=A8E6C9)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E7A4C?style=for-the-badge&logo=linkedin&logoColor=E6FFF3)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E7A4C?style=for-the-badge&logo=github&logoColor=E6FFF3)](https://github.com/meghanacheppulla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E7A4C?style=for-the-badge&logo=googlechrome&logoColor=E6FFF3)](https://meghanacheppulla.github.io/meghanacheppulla/)
+[![Email](https://img.shields.io/badge/Email-1E7A4C?style=for-the-badge&logo=gmail&logoColor=E6FFF3)](mailto:meghanacheppulla@gmail.com)
+
+</div>
+
+<br/>
+
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
----
+
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg)
 
 - 📱 Flutter Developer passionate about building AI-powered mobile apps
