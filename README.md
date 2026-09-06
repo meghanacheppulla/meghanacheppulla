@@ -1,13 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,100:FF8C42&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6D9FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=FFB877)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4C,100:3ECF8E&height=220&section=header&text=Meghana%20Cheppulla&fontSize=55&fontColor=E6FFF3&fontAlignY=38&desc=Software%20Engineer%20%7C%20Final%20Year%20CSE%20%7C%20Full%20Stack%20%26%20Cloud&descAlignY=58&descSize=18&descColor=A8E6C9)
 
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B3B78?style=for-the-badge&logo=linkedin&logoColor=D4C4F0)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
-[![GitHub](https://img.shields.io/badge/GitHub-4B3B78?style=for-the-badge&logo=github&logoColor=D4C4F0)](https://github.com/meghanacheppulla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B3B78?style=for-the-badge&logo=googlechrome&logoColor=D4C4F0)](https://meghanacheppulla.github.io/meghanacheppulla/)
-[![Email](https://img.shields.io/badge/Email-4B3B78?style=for-the-badge&logo=gmail&logoColor=D4C4F0)](mailto:meghanacheppulla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E7A4C?style=for-the-badge&logo=linkedin&logoColor=E6FFF3)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E7A4C?style=for-the-badge&logo=github&logoColor=E6FFF3)](https://github.com/meghanacheppulla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E7A4C?style=for-the-badge&logo=googlechrome&logoColor=E6FFF3)](https://meghanacheppulla.github.io/meghanacheppulla/)
+[![Email](https://img.shields.io/badge/Email-1E7A4C?style=for-the-badge&logo=gmail&logoColor=E6FFF3)](mailto:meghanacheppulla@gmail.com)
 
 </div>
 
@@ -75,9 +73,9 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 **APIs & Integration**
 <br/>
-<img src="https://img.shields.io/badge/REST-4B3B78?style=for-the-badge&logoColor=D4C4F0" />
-<img src="https://img.shields.io/badge/JWT-4B3B78?style=for-the-badge&logo=jsonwebtokens&logoColor=D4C4F0" />
-<img src="https://img.shields.io/badge/OpenAI_API-4B3B78?style=for-the-badge&logo=openai&logoColor=D4C4F0" />
+<img src="https://img.shields.io/badge/REST-1E7A4C?style=for-the-badge&logoColor=E6FFF3" />
+<img src="https://img.shields.io/badge/JWT-1E7A4C?style=for-the-badge&logo=jsonwebtokens&logoColor=E6FFF3" />
+<img src="https://img.shields.io/badge/OpenAI_API-1E7A4C?style=for-the-badge&logo=openai&logoColor=E6FFF3" />
 
 </td>
 </tr>
@@ -89,8 +87,8 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **[Qlue](https://github.com/meghanacheppulla/Qlue_v2)** | AI-powered voice interview simulation platform with real-time interaction, built on a serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-4B3B78?style=flat-square&logo=flutter&logoColor=D4C4F0) ![AWS](https://img.shields.io/badge/-AWS-4B3B78?style=flat-square&logo=amazonaws&logoColor=D4C4F0) ![Node.js](https://img.shields.io/badge/-Node.js-4B3B78?style=flat-square&logo=node.js&logoColor=D4C4F0) |
-| 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React-4B3B78?style=flat-square&logo=react&logoColor=D4C4F0) ![Node.js](https://img.shields.io/badge/-Node.js-4B3B78?style=flat-square&logo=node.js&logoColor=D4C4F0) ![MongoDB](https://img.shields.io/badge/-MongoDB-4B3B78?style=flat-square&logo=mongodb&logoColor=D4C4F0) |
+| 🤖 **[Qlue](https://github.com/meghanacheppulla/Qlue_v2)** | AI-powered voice interview simulation platform with real-time interaction, built on a serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-1E7A4C?style=flat-square&logo=flutter&logoColor=E6FFF3) ![AWS](https://img.shields.io/badge/-AWS-1E7A4C?style=flat-square&logo=amazonaws&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) |
+| 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React-1E7A4C?style=flat-square&logo=react&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) ![MongoDB](https://img.shields.io/badge/-MongoDB-1E7A4C?style=flat-square&logo=mongodb&logoColor=E6FFF3) |
 
 ---
 
@@ -113,22 +111,14 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 <div align="center">
 
-[![Meghana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2D1B4E&title_color=D4C4F0&icon_color=D4C4F0&text_color=C9C2E8)](https://github.com/meghanacheppulla)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=2D1B4E&title_color=D4C4F0&text_color=C9C2E8)](https://github.com/meghanacheppulla)
+[![Meghana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&icon_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&background=2D1B4E&ring=B19CD9&fire=D4C4F0&currStreakLabel=D4C4F0&sideLabels=C9C2E8&dates=C9C2E8&border=4B3B78)
+![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&background=0B3D2E&ring=3ECF8E&fire=A8E6C9&currStreakLabel=A8E6C9&sideLabels=DFF7E9&dates=DFF7E9&border=1E7A4C)
 
-![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=6B4E9E&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=1E7A4C&style=for-the-badge&label=Profile+Views)
 
 </div>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="contribution snake">
-</p>
 
 ---
 
