@@ -13,116 +13,129 @@
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_about.svg)
+## About Me
 
-- 📱 Flutter Developer passionate about building AI-powered mobile apps
-- 🏆 Top 5 Finalist — Project Space (160+ teams, 900+ participants)
-- ☁️ Exploring AWS deployment and cloud workflows
-- 💡 Interested in AI, Mobile Development, and Cloud Computing
-- ⚡ Strong foundation in C, Python, and Java
+Final-year B.Tech Computer Science and Engineering student at **Aditya University** (CGPA: 8.83, Class of 2027), seeking **Software Development Engineer** roles and internships. Experienced across the full stack — from Flutter and React on the frontend to Spring Boot, Node.js, and cloud infrastructure on the backend.
 
----
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_techstack.svg)
+- 🎓 B.Tech CSE, Aditya University — CGPA 8.83, graduating 2027
+- 💼 Full Stack Development Intern at **Technical Hub**
+- 🏆 Top 5 Finalist, Project Space — competed against 160+ teams and 900+ participants
+- ☁️ Actively building and deploying projects on AWS
+- 🧠 Interested in AI systems, mobile development, and cloud architecture
 
-**Mobile**  
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart" />
+## Tech Stack
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,dart&theme=dark" /><br/>
+<sub>Java · Python · JavaScript · Dart</sub>
 
-**Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+<td valign="top" width="33%">
 
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase" />
+**Web & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,html,css&theme=dark" /><br/>
+<sub>React.js · Node.js · Express · Flutter · HTML5 · CSS3</sub>
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,ts,vscode" />
+</td>
+<td valign="top" width="33%">
 
----
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
-![Featured Projects](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_projects%20(1).svg)
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase&theme=dark" /><br/>
+<sub>Spring Boot · MongoDB · MySQL · Firebase</sub>
 
-| 📁 Project | 📝 Description | 🛠 Stack |
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" /><br/>
+<sub>AWS · Docker · Git · Linux</sub>
+
+</td>
+<td valign="top" width="33%">
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma&theme=dark" /><br/>
+<sub>GitHub · VS Code · Postman · Figma</sub>
+
+</td>
+<td valign="top" width="33%">
+
+**APIs & Integration**
+<br/>
+<img src="https://img.shields.io/badge/REST-1E7A4C?style=for-the-badge&logoColor=E6FFF3" />
+<img src="https://img.shields.io/badge/JWT-1E7A4C?style=for-the-badge&logo=jsonwebtokens&logoColor=E6FFF3" />
+<img src="https://img.shields.io/badge/OpenAI_API-1E7A4C?style=for-the-badge&logo=openai&logoColor=E6FFF3" />
+
+</td>
+</tr>
+</table>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+## Featured Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| 🤖 [**Qlue**](https://github.com/meghanacheppulla/Qlue_v2) | AI-powered voice interview simulation platform with real-time interaction. Serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| 📚[**BookStore**](https://github.com/meghanacheppulla/BOOKSTORE) | Full-stack MERN e-commerce app with JWT authentication, role-based access control, and order management. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
----
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_stats%20(1).svg)
+| 🤖 **[Qlue](https://github.com/meghanacheppulla/Qlue_v2)** | AI-powered voice interview simulation platform with real-time interaction, built on a serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-1E7A4C?style=flat-square&logo=flutter&logoColor=E6FFF3) ![AWS](https://img.shields.io/badge/-AWS-1E7A4C?style=flat-square&logo=amazonaws&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) |
+| 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React-1E7A4C?style=flat-square&logo=react&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) ![MongoDB](https://img.shields.io/badge/-MongoDB-1E7A4C?style=flat-square&logo=mongodb&logoColor=E6FFF3) |
 
-[![Meghana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&icon_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=C9D1D9)](https://github.com/meghanacheppulla)
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-   ![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&theme=dark)
+## Currently Building Toward
 
-   ###![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_quote.svg)
-
-  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_views.svg )
-![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=blue)
----
-## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_learning.svg)
 - Advanced Flutter (state management, animations, performance)
-- AI Engineering & LLM Integration
-- AWS & Cloud Deployment
-- System Design
-- RESTful API Design
-- CI/CD Pipelines (GitHub Actions)
+- AI engineering & LLM integration
+- AWS & cloud deployment
+- System design fundamentals
+- RESTful API design
+- CI/CD pipelines (GitHub Actions)
 - Firebase (Auth, Firestore, Cloud Functions)
-- Docker & Containerization
-- Data Structures & Algorithms
-- Mobile App Architecture (MVVM, Clean Architecture)
+- Docker & containerization
+- Data structures & algorithms
+- Mobile app architecture (MVVM, Clean Architecture)
 
----
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_connect.svg)
-<p align="left">
-  <a href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:meghanacheppulla@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/meghanacheppulla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## GitHub Stats
 
- <p align="center">
-  <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
-    <img src="https://github.com/meghanacheppulla/meghanacheppulla/blob/main/lavender-button.svg" alt="Portfolio">
-  </a>
-</p>
- 
+<div align="center">
+
+[![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&icon_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&background=0B3D2E&ring=3ECF8E&fire=A8E6C9&currStreakLabel=A8E6C9&sideLabels=DFF7E9&dates=DFF7E9&border=1E7A4C)
+
+![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=1E7A4C&style=for-the-badge&label=Profile+Views)
+
+</div>
+
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
----
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_snake.svg)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/github-snake-lavender-headfront.svg" width="900" alt="github snake">
-</p>
+## Quote of the Moment
 
-   ##     ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/tagline_banner%20(1).svg)
+<div align="center">
 
-##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_note.svg)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-```dart
-// Not the loudest coder. Just the one who shows up daily.
-print("Thanks for stopping by 👋 — Meghana");
-```
-⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
+</div>
 
-## ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_favquote.svg)
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-   > "Make it work, make it right, make it fast." — Kent Beck
+<div align="center">
 
-   > ⭐ Thanks for visiting my profile!
+**Open to Software Development Engineer roles and internships — let's connect.**
+
+</div>
