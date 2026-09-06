@@ -1,61 +1,111 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4C,100:3ECF8E&height=220&section=header&text=Meghana%20Cheppulla&fontSize=60&fontColor=E6FFF3&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SDE%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=20&descColor=A8E6C9)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4C,100:3ECF8E&height=220&section=header&text=Meghana%20Cheppulla&fontSize=55&fontColor=E6FFF3&fontAlignY=38&desc=Software%20Engineer%20%7C%20Final%20Year%20CSE%20%7C%20Full%20Stack%20%26%20Cloud&descAlignY=58&descSize=18&descColor=A8E6C9)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E7A4C?style=for-the-badge&logo=linkedin&logoColor=E6FFF3)](https://www.linkedin.com/in/meghana-cheppulla-1650a0291/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E7A4C?style=for-the-badge&logo=github&logoColor=E6FFF3)](https://github.com/meghanacheppulla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E7A4C?style=for-the-badge&logo=googlechrome&logoColor=E6FFF3)](https://meghanacheppulla.github.io/meghanacheppulla/)
+[![Email](https://img.shields.io/badge/Email-1E7A4C?style=for-the-badge&logo=gmail&logoColor=E6FFF3)](mailto:meghanacheppulla@gmail.com)
 
 </div>
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+<br/>
 
 ## About Me
 
-- 📱 Flutter Developer passionate about building AI-powered mobile apps
-- 🏆 Top 5 Finalist — Project Space (160+ teams, 900+ participants)
-- ☁️ Exploring AWS deployment and cloud workflows
-- 💡 Interested in AI, Mobile Development, and Cloud Computing
-- ⚡ Strong foundation in C, Python, and Java
+Final-year B.Tech Computer Science and Engineering student at **Aditya University** (CGPA: 8.83, Class of 2027), seeking **Software Development Engineer** roles and internships. Experienced across the full stack — from Flutter and React on the frontend to Spring Boot, Node.js, and cloud infrastructure on the backend.
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+- 🎓 B.Tech CSE, Aditya University — CGPA 8.83, graduating 2027
+- 💼 Full Stack Development Intern at **Technical Hub**
+- 🏆 Top 5 Finalist, Project Space — competed against 160+ teams and 900+ participants
+- ☁️ Actively building and deploying projects on AWS
+- 🧠 Interested in AI systems, mobile development, and cloud architecture
+
+---
 
 ## Tech Stack
 
-**Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" />
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,dart&theme=dark" /><br/>
+<sub>Java · Python · JavaScript · Dart</sub>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</td>
+<td valign="top" width="33%">
 
-**Backend**
+**Web & Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,html,css&theme=dark" /><br/>
+<sub>React.js · Node.js · Express · Flutter · HTML5 · CSS3</sub>
 
-**Database**
+</td>
+<td valign="top" width="33%">
+
+**Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase&theme=dark" /><br/>
+<sub>Spring Boot · MongoDB · MySQL · Firebase</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" /><br/>
+<sub>AWS · Docker · Git · Linux</sub>
+
+</td>
+<td valign="top" width="33%">
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,ts,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma&theme=dark" /><br/>
+<sub>GitHub · VS Code · Postman · Figma</sub>
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+</td>
+<td valign="top" width="33%">
+
+**APIs & Integration**
+<br/>
+<img src="https://img.shields.io/badge/REST-1E7A4C?style=for-the-badge&logoColor=E6FFF3" />
+<img src="https://img.shields.io/badge/JWT-1E7A4C?style=for-the-badge&logo=jsonwebtokens&logoColor=E6FFF3" />
+<img src="https://img.shields.io/badge/OpenAI_API-1E7A4C?style=for-the-badge&logo=openai&logoColor=E6FFF3" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Featured Projects
 
-| 📁 Project | 📝 Description | 🛠 Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🤖 [**Qlue**](https://github.com/meghanacheppulla/Qlue_v2) | AI-powered voice interview simulation platform with real-time interaction. Serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-1E7A4C?style=flat-square&logo=flutter&logoColor=E6FFF3) ![AWS](https://img.shields.io/badge/-AWS-1E7A4C?style=flat-square&logo=amazonaws&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) |
-| 📚 [**BookStore**](https://github.com/meghanacheppulla/BOOKSTORE) | Full-stack MERN e-commerce app with JWT authentication, role-based access control, and order management. | ![React](https://img.shields.io/badge/-React-1E7A4C?style=flat-square&logo=react&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) ![MongoDB](https://img.shields.io/badge/-MongoDB-1E7A4C?style=flat-square&logo=mongodb&logoColor=E6FFF3) |
+| 🤖 **[Qlue](https://github.com/meghanacheppulla/Qlue_v2)** | AI-powered voice interview simulation platform with real-time interaction, built on a serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-1E7A4C?style=flat-square&logo=flutter&logoColor=E6FFF3) ![AWS](https://img.shields.io/badge/-AWS-1E7A4C?style=flat-square&logo=amazonaws&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) |
+| 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React-1E7A4C?style=flat-square&logo=react&logoColor=E6FFF3) ![Node.js](https://img.shields.io/badge/-Node.js-1E7A4C?style=flat-square&logo=node.js&logoColor=E6FFF3) ![MongoDB](https://img.shields.io/badge/-MongoDB-1E7A4C?style=flat-square&logo=mongodb&logoColor=E6FFF3) |
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+---
+
+## Currently Building Toward
+
+- Advanced Flutter (state management, animations, performance)
+- AI engineering & LLM integration
+- AWS & cloud deployment
+- System design fundamentals
+- RESTful API design
+- CI/CD pipelines (GitHub Actions)
+- Firebase (Auth, Firestore, Cloud Functions)
+- Docker & containerization
+- Data structures & algorithms
+- Mobile app architecture (MVVM, Clean Architecture)
+
+---
 
 ## GitHub Stats
 
@@ -66,68 +116,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=meghanacheppulla&background=0B3D2E&ring=3ECF8E&fire=A8E6C9&currStreakLabel=A8E6C9&sideLabels=DFF7E9&dates=DFF7E9&border=1E7A4C)
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=1E7A4C&style=for-the-badge&label=Profile+Views)
 
 </div>
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+---
 
-## Currently Learning
+<div align="center">
 
-- Advanced Flutter (state management, animations, performance)
-- AI Engineering & LLM Integration
-- AWS & Cloud Deployment
-- System Design
-- RESTful API Design
-- CI/CD Pipelines (GitHub Actions)
-- Firebase (Auth, Firestore, Cloud Functions)
-- Docker & Containerization
-- Data Structures & Algorithms
-- Mobile App Architecture (MVVM, Clean Architecture)
+**Open to Software Development Engineer roles and internships — let's connect.**
 
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/meghana-cheppulla-1650a0291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E7A4C?style=for-the-badge&logo=linkedin&logoColor=E6FFF3" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:meghanacheppulla@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1E7A4C?style=for-the-badge&logo=gmail&logoColor=E6FFF3" alt="Email"/>
-  </a>
-  <a href="https://github.com/meghanacheppulla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1E7A4C?style=for-the-badge&logo=github&logoColor=E6FFF3" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://meghanacheppulla.github.io/meghanacheppulla/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-3ECF8E?style=for-the-badge&logoColor=0B3D2E" alt="Portfolio">
-  </a>
-</p>
-
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/output/github-snake-green.svg" width="900" alt="github snake">
-</p>
-
-![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
-
-```dart
-// Not the loudest coder. Just the one who shows up daily.
-print("Thanks for stopping by 👋 — Meghana");
-```
-
-⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
-
-> "Make it work, make it right, make it fast." — Kent Beck
->
-> ⭐ Thanks for visiting my profile!
-
-</markdown>
+</div>
