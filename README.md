@@ -134,6 +134,23 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
+## A Note From Me
+
+```dart
+// Not the loudest coder. Just the one who shows up daily.
+print("Thanks for stopping by 👋 — Meghana");
+```
+
+⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+## Favorite Quote
+
+> "Make it work, make it right, make it fast." — Kent Beck
+>
+> ⭐ Thanks for visiting my profile!
+
 <div align="center">
 
 **Open to Software Development Engineer roles and internships — let's connect.**
