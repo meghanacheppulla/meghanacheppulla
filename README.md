@@ -11,7 +11,7 @@
 
 ---
 ##  ![Banner](https://github.com/meghanacheppulla/meghanacheppulla/blob/main/title_techstack.svg)
-## 🛠️ Tech Stack
+
 
 <table>
 <tr>
