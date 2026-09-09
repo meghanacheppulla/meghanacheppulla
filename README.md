@@ -114,9 +114,8 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 ## GitHub Stats
 
 <div align="center">
-
-[![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&icon_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+[![Meghana's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&icon_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B3D2E&title_color=A8E6C9&text_color=DFF7E9)](https://github.com/meghanacheppulla)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=meghanacheppulla&background=0B3D2E&ring=3ECF8E&fire=A8E6C9&currStreakLabel=A8E6C9&sideLabels=DFF7E9&dates=DFF7E9&border=1E7A4C)
 
