@@ -92,4 +92,69 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **[Qlue](https://github.com/meghanacheppulla/Qlue_v2)** | AI-powered voice interview simulation platform with real-time interaction, built on a serverless AWS backend with a Flutter frontend. | ![Flutter](https://img.shields.io/badge/-Flutter-0F5C6E?style=flat-square&logo=flutter&logoColor=E8FBFA) ![AWS](https://img.shields.io/badge/-AWS-0F5C6E?style=flat-square&logo=amazonaws&logoColor=E8FBFA) ![Node.js](https://img.shields.io/badge/-Node.js-0F5C6E?style=flat-square&logo=node.js&logoColor=E8FBFA) |
-| 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React
+| 📚 **[BookStore](https://github.com/meghanacheppulla/BOOKSTORE)** | Full-stack MERN e-commerce application with JWT authentication, role-based access control, and end-to-end order management. | ![React](https://img.shields.io/badge/-React-0F5C6E?style=flat-square&logo=react&logoColor=E8FBFA) ![Node.js](https://img.shields.io/badge/-Node.js-0F5C6E?style=flat-square&logo=node.js&logoColor=E8FBFA) ![MongoDB](https://img.shields.io/badge/-MongoDB-0F5C6E?style=flat-square&logo=mongodb&logoColor=E8FBFA) |
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+![Currently Building Toward](https://img.shields.io/badge/Currently%20Building%20Toward-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+
+- Advanced Flutter (state management, animations, performance)
+- AI engineering & LLM integration
+- AWS & cloud deployment
+- System design fundamentals
+- RESTful API design
+- CI/CD pipelines (GitHub Actions)
+- Firebase (Auth, Firestore, Cloud Functions)
+- Docker & containerization
+- Data structures & algorithms
+- Mobile app architecture (MVVM, Clean Architecture)
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+
+<div align="center">
+
+[![Meghana's GitHub Stats](https://your-project-name.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1F2D&title_color=A8DEE0&icon_color=A8DEE0&text_color=D6F5F3)](https://github.com/meghanacheppulla)
+[![Top Languages](https://your-project-name.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1F2D&title_color=A8DEE0&text_color=D6F5F3)](https://github.com/meghanacheppulla)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=meghanacheppulla&background=0A1F2D&ring=E63946&fire=E63946&currStreakLabel=A8DEE0&sideLabels=D6F5F3&dates=D6F5F3&border=0F5C6E)
+
+![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=0F5C6E&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+![Random Quote](https://img.shields.io/badge/Random%20Quote-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+![A Note](https://img.shields.io/badge/A%20Note-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+
+```dart
+// Not the loudest coder. Just the one who shows up daily.
+print("Thanks for stopping by 👋 — Meghana");
+```
+
+⭐ **If this profile made you pause for a second, a star on my repos would mean a lot.**
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
+![Favorite Quote](https://img.shields.io/badge/Favorite%20Quote-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+
+> "Make it work, make it right, make it fast." — Kent Beck
+>
+> ⭐ Thanks for visiting my profile!
+
+<div align="center">
+
+
+
+</div>
