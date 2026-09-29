@@ -118,7 +118,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 [![Meghana's GitHub Stats](https://your-project-name.vercel.app/api?username=meghanacheppulla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=3D0A24&title_color=F2B5D4&icon_color=F2B5D4&text_color=FADCEB)](https://github.com/meghanacheppulla)
 [![Top Languages](https://your-project-name.vercel.app/api/top-langs/?username=meghanacheppulla&layout=compact&theme=tokyonight&hide_border=true&bg_color=3D0A24&title_color=F2B5D4&text_color=FADCEB)](https://github.com/meghanacheppulla)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=meghanacheppulla&background=3D0A24&ring=E8358C&fire=F2B5D4&currStreakLabel=F2B5D4&sideLabels=FADCEB&dates=FADCEB&border=9C1F5E)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=meghanacheppulla&background=3D0A24&ring=E63946&fire=E63946&currStreakLabel=F2B5D4&sideLabels=FADCEB&dates=FADCEB&border=9C1F5E)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meghanacheppulla&color=9C1F5E&style=for-the-badge&label=Profile+Views)
 
