@@ -96,6 +96,60 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
+![Experience & Education](https://img.shields.io/badge/Experience%20%26%20Education-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+
+<table>
+<tr>
+<th align="center" width="18%">Period</th>
+<th align="left" width="27%">Role / Distinction</th>
+<th align="left" width="55%">Organization & Key Deliverables</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/2026-0F5C6E?style=flat-square" /><img src="https://img.shields.io/badge/HACKATHON-00C2CB?style=flat-square&logoColor=0A1F2D" /><br/>
+<sub>Project Space</sub>
+</td>
+<td valign="top">
+<b>Top 5 Finalist</b><br/>
+<sub>160+ Teams · 900+ Participants</sub>
+</td>
+<td valign="top">
+- Presented <b>Qlue</b>, an AI-powered voice interview simulation platform with real-time interaction.<br/>
+- Built on a serverless AWS backend with a Flutter frontend, reaching the Top 5 among 160+ teams.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/2025-0F5C6E?style=flat-square" /><img src="https://img.shields.io/badge/INTERNSHIP-00C2CB?style=flat-square&logoColor=0A1F2D" /><br/>
+<sub>Technical Hub</sub>
+</td>
+<td valign="top">
+<b>Full Stack Development Intern</b><br/>
+<sub>5-Member Agile Team</sub>
+</td>
+<td valign="top">
+- Engineered the <b>IDzyne</b> smart attendance platform using Flutter, Node.js &amp; Firebase.<br/>
+- Shipped 5+ core modules across 2 sprint cycles on schedule.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/Present-0F5C6E?style=flat-square" /><img src="https://img.shields.io/badge/EDUCATION-00C2CB?style=flat-square&logoColor=0A1F2D" /><br/>
+<sub>Aditya University</sub>
+</td>
+<td valign="top">
+<b>B.Tech in CSE</b><br/>
+<sub>CGPA: 8.83 · Class of 2027</sub>
+</td>
+<td valign="top">
+- Specializing in Full-Stack Web/Mobile Development and AI Engineering.<br/>
+- Certifications from Cisco Networking Academy, Oracle Academy, Microsoft, MongoDB University, Certiport, Board Infinity &amp; Wadhwani Foundation.
+</td>
+</tr>
+</table>
+
+![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
+
 ![Currently Building Toward](https://img.shields.io/badge/Currently%20Building%20Toward-00C2CB?style=for-the-badge&logoColor=0A1F2D)
 
 - Advanced Flutter (state management, animations, performance)
