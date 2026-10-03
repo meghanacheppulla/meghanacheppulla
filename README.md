@@ -96,7 +96,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
-![Experience & Education](https://img.shields.io/badge/Experience%20%26%20Education-00C2CB?style=for-the-badge&logoColor=0A1F2D)
+![Education & Experience](https://img.shields.io/badge/Experience%20%26%20Education-00C2CB?style=for-the-badge&logoColor=0A1F2D)
 
 <table>
 <tr>
@@ -143,7 +143,7 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 </td>
 <td valign="top">
 - Specializing in Full-Stack Web/Mobile Development and AI Engineering.<br/>
-- Certifications from Cisco Networking Academy, Oracle Academy, Microsoft, MongoDB University, Certiport, Board Infinity &amp; Wadhwani Foundation.
+- Certifications from  MICROSOFT GITHUB, MONGODB ASSOCIATE DEVELOPER, HTML&CSS.
 </td>
 </tr>
 </table>
@@ -152,16 +152,16 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![Currently Building Toward](https://img.shields.io/badge/Currently%20Building%20Toward-00C2CB?style=for-the-badge&logoColor=0A1F2D)
 
-- Advanced Flutter (state management, animations, performance)
-- AI engineering & LLM integration
-- AWS & cloud deployment
-- System design fundamentals
-- RESTful API design
-- CI/CD pipelines (GitHub Actions)
-- Firebase (Auth, Firestore, Cloud Functions)
-- Docker & containerization
-- Data structures & algorithms
-- Mobile app architecture (MVVM, Clean Architecture)
+🔹 Advanced Flutter (state management, animations, performance)
+🔹 AI engineering & LLM integration
+🔹 AWS & cloud deployment
+🔹System design fundamentals
+🔹 RESTful API design
+🔹 CI/CD pipelines (GitHub Actions)
+🔹 Firebase (Auth, Firestore, Cloud Functions)
+🔹 Docker & containerization
+🔹 Data structures & algorithms
+🔹 Mobile app architecture (MVVM, Clean Architecture)
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
