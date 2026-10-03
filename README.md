@@ -152,16 +152,18 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 
 ![Currently Building Toward](https://img.shields.io/badge/Currently%20Building%20Toward-00C2CB?style=for-the-badge&logoColor=0A1F2D)
 
-🔹 Advanced Flutter (state management, animations, performance)
-🔹 AI engineering & LLM integration
-🔹 AWS & cloud deployment
-🔹System design fundamentals
-🔹 RESTful API design
-🔹 CI/CD pipelines (GitHub Actions)
-🔹 Firebase (Auth, Firestore, Cloud Functions)
-🔹 Docker & containerization
-🔹 Data structures & algorithms
+<p>
+🔹 Advanced Flutter (state management, animations, performance)<br/>
+🔹 AI engineering &amp; LLM integration<br/>
+🔹 AWS &amp; cloud deployment<br/>
+🔹 System design fundamentals<br/>
+🔹 RESTful API design<br/>
+🔹 CI/CD pipelines (GitHub Actions)<br/>
+🔹 Firebase (Auth, Firestore, Cloud Functions)<br/>
+🔹 Docker &amp; containerization<br/>
+🔹 Data structures &amp; algorithms<br/>
 🔹 Mobile app architecture (MVVM, Clean Architecture)
+</p>
 
 ![divider](https://raw.githubusercontent.com/meghanacheppulla/meghanacheppulla/main/divider.svg)
 
