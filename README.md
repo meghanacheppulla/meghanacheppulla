@@ -128,8 +128,8 @@ Final-year B.Tech Computer Science and Engineering student at **Aditya Universit
 <sub>5-Member Agile Team</sub>
 </td>
 <td valign="top">
-- Engineered the <b>IDzyne</b> smart attendance platform using Flutter, Node.js &amp; Firebase.<br/>
-- Shipped 5+ core modules across 2 sprint cycles on schedule.
+🔹 Engineered <b>Planzo</b>, a to-do and task planning app, using Flutter, Node.js &amp; Firebase.<br/>
+🔹 Shipped 5+ core modules across 2 sprint cycles on schedule.
 </td>
 </tr>
 <tr>
